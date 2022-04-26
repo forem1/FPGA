@@ -1,2 +1,6 @@
 # FPGA
-Examples, projects and free modules for Cyclone IV (Omdazz)
+Examples, projects and modules for Cyclone IV (Omdazz).
+
+![fpga-pinout](fpga-pinout.jpg)
+
+![fpga-diagram](fpga-diagram.jpg)
