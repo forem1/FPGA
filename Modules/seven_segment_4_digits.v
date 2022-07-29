@@ -1,3 +1,15 @@
+/* ----------------------------------------------- *
+ * Title       : Seven segment driver              *
+ * Project     :                                   *
+ * ----------------------------------------------- *
+ * File        : seven_segment_4_digits.v          *
+ * Author      : Andrey Dryupin                    *
+ * Last Edit   : 28/07/2022                        *
+ * ----------------------------------------------- *
+ * Description : Dynamical seven segment driver    *
+ *               for four tubes                    *
+ * ----------------------------------------------- */
+
 module seven_segment_4_digits
 (
     input             clock,

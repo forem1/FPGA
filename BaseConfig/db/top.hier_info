@@ -1,0 +1,13 @@
+|top
+clk => ~NO_FANOUT~
+rst => ~NO_FANOUT~
+btn1 => ~NO_FANOUT~
+btn2 => ~NO_FANOUT~
+btn3 => ~NO_FANOUT~
+btn4 => ~NO_FANOUT~
+led1 => ~NO_FANOUT~
+led2 => ~NO_FANOUT~
+led3 => ~NO_FANOUT~
+led4 => ~NO_FANOUT~
+
+

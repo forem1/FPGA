@@ -1,3 +1,14 @@
+/* ----------------------------------------------- *
+ * Title       : UART transmitter                  *
+ * Project     :                                   *
+ * ----------------------------------------------- *
+ * File        : uart_tx.v                         *
+ * Author      : Andrey Dryupin                    *
+ * Last Edit   : 28/07/2022                        *
+ * ----------------------------------------------- *
+ * Description : Simple UART transmitter           *
+ * ----------------------------------------------- */
+
 module uart_tx (
     input clk,
     input start,

@@ -1,0 +1,7 @@
+module top (
+	input clk, rst,
+	output led
+);
+
+
+endmodule

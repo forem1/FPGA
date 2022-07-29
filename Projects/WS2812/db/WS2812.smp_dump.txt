@@ -1,0 +1,5 @@
+
+State Machine - |top|state
+Name state.01 
+state.00 0 
+state.01 1 
